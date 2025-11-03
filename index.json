@@ -17,15 +17,15 @@
     },
     "StarterProject": {
       "Production": {
-        "currentRelease": "v4",
+        "currentRelease": "v3",
         "targetBinaryVersion": false,
-        "bundleUrl": "bundles/StarterProject/Production/v4/bundle.js",
-        "manifestUrl": "bundles/StarterProject/Production/v4/manifest.json",
+        "bundleUrl": "bundles/StarterProject/Production/v3/bundle.js",
+        "manifestUrl": "bundles/StarterProject/Production/v3/manifest.json",
         "mandatory": false,
         "rolloutPercentage": 100,
-        "description": "v4 - Blue box with gold border and telemetry",
-        "hash": "6ac0fdbc577fbd6726210a2f72d370a45b3b1adc04862a6e129607c4bad4ce02",
-        "signature": "K506DPLM6o6dRb9VMRWMm3WsPGpOGBiW1CyBZFKh4583BziGLjj/MsNJ70GmE/Qzgydvaf6KZUHdhHRQW09B03uPpWdtioePfTI2EYKvx6Jnwi3yp5qg9HEjHr08z9KMSwq1vEdkkh7hxgYLysZcUIpfOBYU+u/sNN1PEMkRSmZK9Xs+jt3En72r9pje7Z69f0z2zyvRwzjjkXM7Spmvvif8XWnPQXkz8dfVqp7FPIo/5xI1dLO1v50N4jGM6gHZ7Q+iKlwpCFaUWc753jNxJDplnNmuev4VhCV0PvBmSwD4F/5jDdlHpaqFJBeGrHhdwfNw5hPNqYZa3FhuU0IhEQ=="
+        "description": "v3 - Pink header with shadow",
+        "hash": "0d6da92e9c1ce1f04a8361a1a3ba52e9545538a4e2c2de512a6e76d854b59c11",
+        "signature": "cMA85wuS8oXLofgJp/deYoA+pV9eH9V+Uw/V+iDYInbvxM+VfiAZkAvIjEIODBMNWyB+aqzPb4t2xhzfErye8oVgnyOqek78cNXuP/UVEzJhRrrjoSKq3h6dIdvW1dRJsq7s+UMRWmkGUGrpjytMWDRtxndeJZA7w9b/RIiP5nnU+oOfei6ZKwvPJ+x/ai5OjFwKyydTBvA2RUkiUwEexAUji9U138HWZ8B3ctP0islt1j+9+VHfofT3OdIFeBanNfDSmSf23VZJJEnJiCOa95MYH9uGmVPAFT/BxuvNDcjZxTD98v6M9K+r+sjXHioN5bxekoYiLfqTtYWVVwIMCQ=="
       }
     }
   }
