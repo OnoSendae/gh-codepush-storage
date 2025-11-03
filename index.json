@@ -6,11 +6,13 @@
       "Production": {
         "currentRelease": "v1",
         "targetBinaryVersion": false,
+        "semverRange": "^1.0.0",
         "bundleUrl": "bundles/OnoSendae/Production/v1/bundle.js",
         "manifestUrl": "bundles/OnoSendae/Production/v1/manifest.json",
         "mandatory": false,
         "rolloutPercentage": 100,
         "description": "First production release",
+        "enabled": false,
         "hash": "23e03e1b10a471c1fc91d7b57b3bc30c0ce736a8d57e4d56e646a62d2e01a090",
         "signature": "SALCQ7etkJdPHotU3FSW5HByHhSCCbPsxOpTgC6L5JRpT73eWqgvgMIepYmByK1nOYNbfZT2+Prl5ZlZFdVdjw4aLiIy3mSK1D3Qxm95Cw4B7Dw3D74THnaQP8qW5R73OSIagZX1xClUR71WpJneU8eMxVqnA7yTqKLFZFVo8/7+FduwKq/8SkovhzhSs09jE3vkKFgwbi/grZ/jRBqxPdQvmkdwoSHfzeTCqeinDrxhIwo6B/AS/Pk649wIQX6Z3gw4oe1YODbYLwIsdX5zoItAqyTg/w00coOKAo9bl5PTQsCk4rO4u/g5laquE1pvnWdaQK8yZUa7YnfOsoSM7w=="
       }
@@ -25,7 +27,7 @@
         "mandatory": false,
         "rolloutPercentage": 100,
         "description": "v4 - Blue box with version control",
-        "enabled": true,
+        "enabled": false,
         "hash": "6ac0fdbc577fbd6726210a2f72d370a45b3b1adc04862a6e129607c4bad4ce02",
         "signature": "gWf51JAx+YgC+6xJWEbV/6hxNBjSCkR9QZzrcO1vyDGAiJjGy46PZ6Y6CG2pQTaUOFobolS9fcGQT4K7MHEumo+i6STaovzwJFel4u2rwiAUk5rrebtTM2yx1I8uNsDz+HN1hcFM74+vEKCbWg/0PjB+LR7jfaVQv91wz+K6eSptDp3Jllt17StQsuR0wMyxy2joYhn6fle2gYnhKFbs0RblmzUGh+5ZNGIpYkaYi0yVirzx5kOallqd5Qk9Q/H3iVVr3y2S06etqJlm3uJ1WeBT6qo+X3N4xWVW2T1y5qWcnfk2qnJii4iw5BK0TeWfZHgGPmFJA+TWa+9jCt1wvA=="
       }
