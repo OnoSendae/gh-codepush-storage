@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-11-03T00:12:16.778Z",
+  "lastUpdated": "2025-11-03T00:36:01.025Z",
   "apps": {
     "OnoSendae": {
       "Production": {
@@ -13,6 +13,19 @@
         "description": "First production release",
         "hash": "23e03e1b10a471c1fc91d7b57b3bc30c0ce736a8d57e4d56e646a62d2e01a090",
         "signature": "SALCQ7etkJdPHotU3FSW5HByHhSCCbPsxOpTgC6L5JRpT73eWqgvgMIepYmByK1nOYNbfZT2+Prl5ZlZFdVdjw4aLiIy3mSK1D3Qxm95Cw4B7Dw3D74THnaQP8qW5R73OSIagZX1xClUR71WpJneU8eMxVqnA7yTqKLFZFVo8/7+FduwKq/8SkovhzhSs09jE3vkKFgwbi/grZ/jRBqxPdQvmkdwoSHfzeTCqeinDrxhIwo6B/AS/Pk649wIQX6Z3gw4oe1YODbYLwIsdX5zoItAqyTg/w00coOKAo9bl5PTQsCk4rO4u/g5laquE1pvnWdaQK8yZUa7YnfOsoSM7w=="
+      }
+    },
+    "StarterProject": {
+      "Production": {
+        "currentRelease": "v1",
+        "targetBinaryVersion": false,
+        "bundleUrl": "bundles/StarterProject/Production/v1/bundle.js",
+        "manifestUrl": "bundles/StarterProject/Production/v1/manifest.json",
+        "mandatory": false,
+        "rolloutPercentage": 100,
+        "description": "Baseline v1",
+        "hash": "41a476597ecfb3f32dafabe9321cc7072ba96488c61eb69cb659a42cadcadea9",
+        "signature": "h2Hwm2OchduVnwplxub20ZyT4oIMwV8rrMSVruwjAvLdGQbmU1d+VLk4aW8tz99Sc1ydi7YpsCNbG2Zuq6xi0hM3PiuvWYD7BaFnYfzCSMVr97SVHZbLWHzey2ZDY2ks8NFxyj5b0Nb9R1XE9tqtqBhF/PlbN8AROFOO43sASsa1YEPJ5SCeyUdxKMHmysJjDN7ooHxW154vqh7zqbbvAonfF68aC6TKdmVFvCFeRjbv1Ty2h6A9oVv5EOG4+iSlWGZXVSO7uOcjrlVt86RuAxEKHFTWmQ6HQo6IcC955vfLXFvBiwUfxhApwnhMJImcA3Xib0wXR5BMO/MsbjHl0A=="
       }
     }
   }

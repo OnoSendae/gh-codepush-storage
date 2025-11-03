@@ -19,6 +19,26 @@
         "totalDownloads": 0,
         "activeInstalls": 0
       }
+    },
+    {
+      "id": "rel_1762130161024",
+      "app": "StarterProject",
+      "deployment": "Production",
+      "label": "v1",
+      "targetBinaryVersion": false,
+      "bundlePath": "bundles/StarterProject/Production/v1",
+      "mandatory": false,
+      "rolloutPercentage": 100,
+      "description": "Baseline v1",
+      "createdAt": "2025-11-03T00:36:01.024Z",
+      "createdBy": "cli",
+      "hash": "41a476597ecfb3f32dafabe9321cc7072ba96488c61eb69cb659a42cadcadea9",
+      "signature": "h2Hwm2OchduVnwplxub20ZyT4oIMwV8rrMSVruwjAvLdGQbmU1d+VLk4aW8tz99Sc1ydi7YpsCNbG2Zuq6xi0hM3PiuvWYD7BaFnYfzCSMVr97SVHZbLWHzey2ZDY2ks8NFxyj5b0Nb9R1XE9tqtqBhF/PlbN8AROFOO43sASsa1YEPJ5SCeyUdxKMHmysJjDN7ooHxW154vqh7zqbbvAonfF68aC6TKdmVFvCFeRjbv1Ty2h6A9oVv5EOG4+iSlWGZXVSO7uOcjrlVt86RuAxEKHFTWmQ6HQo6IcC955vfLXFvBiwUfxhApwnhMJImcA3Xib0wXR5BMO/MsbjHl0A==",
+      "size": 1030423,
+      "metrics": {
+        "totalDownloads": 0,
+        "activeInstalls": 0
+      }
     }
   ]
 }

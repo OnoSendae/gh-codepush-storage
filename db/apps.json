@@ -10,6 +10,17 @@
       ],
       "createdAt": "2025-11-03T00:11:33.895Z",
       "owner": "cli"
+    },
+    {
+      "id": "app-1762130135195",
+      "name": "StarterProject",
+      "platform": "ios",
+      "deployments": [
+        "Production",
+        "Staging"
+      ],
+      "createdAt": "2025-11-03T00:35:35.195Z",
+      "owner": "cli"
     }
   ]
 }
