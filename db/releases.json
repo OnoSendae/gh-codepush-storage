@@ -39,6 +39,26 @@
         "totalDownloads": 0,
         "activeInstalls": 0
       }
+    },
+    {
+      "id": "rel_1762130202525",
+      "app": "StarterProject",
+      "deployment": "Production",
+      "label": "v2",
+      "targetBinaryVersion": false,
+      "bundlePath": "bundles/StarterProject/Production/v2",
+      "mandatory": false,
+      "rolloutPercentage": 100,
+      "description": "Update v2 - Green text",
+      "createdAt": "2025-11-03T00:36:42.525Z",
+      "createdBy": "cli",
+      "hash": "6c4999425df59c8f8af6ef33ff2f5d1b094b48af290fdeec09e3c6eb26d71fa2",
+      "signature": "LuUFh8OT41n0BeIvvCxLEJh1fCW0yekrARNztJhXqWkShkNI3saqEJSjD4DI4GtcNrUHhpHmeYhsl0DIrMg1EpodY+bP3Pq90bF4SHgnKXpfDiNsGcprjs6gZPF0CkuNNL/4pyZ28Yquc7QsS3ABj2t6UThzVEGjk4JONHK/oNUrt1RYR8kZcsUb/EuBOGLWGULvgRFHw1bLPM+RA2SQZIDLZovXW7gubV+RnlBWuJGc2ILPoBwt77Ya2bt9UX3Jvly2z0blzrF5UDK1qUi8XyYil2SdG9KtOToIkh6+Um7Az+lGbvgq/Ur/7NwaPQD9hXr85Tp0rSJEbf713Gzmiw==",
+      "size": 1030644,
+      "metrics": {
+        "totalDownloads": 0,
+        "activeInstalls": 0
+      }
     }
   ]
 }
