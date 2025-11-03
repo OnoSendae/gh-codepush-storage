@@ -20,8 +20,8 @@
     "StarterProject": {
       "Production": {
         "currentRelease": "v5",
-        "targetBinaryVersion": false,
-        "semverRange": "^0.0.1",
+        "targetBinaryVersion": "1.0",
+        "semverRange": "^1.0.0",
         "bundleUrl": "bundles/StarterProject/Production/v5/bundle.js",
         "manifestUrl": "bundles/StarterProject/Production/v5/manifest.json",
         "mandatory": false,
