@@ -1,5 +1,19 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-11-03T00:11:21.030Z",
-  "apps": {}
+  "lastUpdated": "2025-11-03T00:12:16.778Z",
+  "apps": {
+    "OnoSendae": {
+      "Production": {
+        "currentRelease": "v1",
+        "targetBinaryVersion": false,
+        "bundleUrl": "bundles/OnoSendae/Production/v1/bundle.js",
+        "manifestUrl": "bundles/OnoSendae/Production/v1/manifest.json",
+        "mandatory": false,
+        "rolloutPercentage": 100,
+        "description": "First production release",
+        "hash": "23e03e1b10a471c1fc91d7b57b3bc30c0ce736a8d57e4d56e646a62d2e01a090",
+        "signature": "SALCQ7etkJdPHotU3FSW5HByHhSCCbPsxOpTgC6L5JRpT73eWqgvgMIepYmByK1nOYNbfZT2+Prl5ZlZFdVdjw4aLiIy3mSK1D3Qxm95Cw4B7Dw3D74THnaQP8qW5R73OSIagZX1xClUR71WpJneU8eMxVqnA7yTqKLFZFVo8/7+FduwKq/8SkovhzhSs09jE3vkKFgwbi/grZ/jRBqxPdQvmkdwoSHfzeTCqeinDrxhIwo6B/AS/Pk649wIQX6Z3gw4oe1YODbYLwIsdX5zoItAqyTg/w00coOKAo9bl5PTQsCk4rO4u/g5laquE1pvnWdaQK8yZUa7YnfOsoSM7w=="
+      }
+    }
+  }
 }

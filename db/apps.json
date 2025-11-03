@@ -1,3 +1,15 @@
 {
-  "apps": []
+  "apps": [
+    {
+      "id": "app-1762128693895",
+      "name": "OnoSendae",
+      "platform": "ios",
+      "deployments": [
+        "Production",
+        "Staging"
+      ],
+      "createdAt": "2025-11-03T00:11:33.895Z",
+      "owner": "cli"
+    }
+  ]
 }
