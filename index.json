@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-11-03T01:58:45.937Z",
+  "lastUpdated": "2025-11-03T02:04:24.266Z",
   "apps": {
     "OnoSendae": {
       "Production": {
@@ -17,15 +17,15 @@
     },
     "StarterProject": {
       "Production": {
-        "currentRelease": "v2",
+        "currentRelease": "v4",
         "targetBinaryVersion": false,
-        "bundleUrl": "bundles/StarterProject/Production/v2/bundle.js",
-        "manifestUrl": "bundles/StarterProject/Production/v2/manifest.json",
+        "bundleUrl": "bundles/StarterProject/Production/v4/bundle.js",
+        "manifestUrl": "bundles/StarterProject/Production/v4/manifest.json",
         "mandatory": false,
         "rolloutPercentage": 100,
-        "description": "Update v2 - Green text",
-        "hash": "6c4999425df59c8f8af6ef33ff2f5d1b094b48af290fdeec09e3c6eb26d71fa2",
-        "signature": "LuUFh8OT41n0BeIvvCxLEJh1fCW0yekrARNztJhXqWkShkNI3saqEJSjD4DI4GtcNrUHhpHmeYhsl0DIrMg1EpodY+bP3Pq90bF4SHgnKXpfDiNsGcprjs6gZPF0CkuNNL/4pyZ28Yquc7QsS3ABj2t6UThzVEGjk4JONHK/oNUrt1RYR8kZcsUb/EuBOGLWGULvgRFHw1bLPM+RA2SQZIDLZovXW7gubV+RnlBWuJGc2ILPoBwt77Ya2bt9UX3Jvly2z0blzrF5UDK1qUi8XyYil2SdG9KtOToIkh6+Um7Az+lGbvgq/Ur/7NwaPQD9hXr85Tp0rSJEbf713Gzmiw=="
+        "description": "v4 - Blue box with gold border and telemetry",
+        "hash": "6ac0fdbc577fbd6726210a2f72d370a45b3b1adc04862a6e129607c4bad4ce02",
+        "signature": "K506DPLM6o6dRb9VMRWMm3WsPGpOGBiW1CyBZFKh4583BziGLjj/MsNJ70GmE/Qzgydvaf6KZUHdhHRQW09B03uPpWdtioePfTI2EYKvx6Jnwi3yp5qg9HEjHr08z9KMSwq1vEdkkh7hxgYLysZcUIpfOBYU+u/sNN1PEMkRSmZK9Xs+jt3En72r9pje7Z69f0z2zyvRwzjjkXM7Spmvvif8XWnPQXkz8dfVqp7FPIo/5xI1dLO1v50N4jGM6gHZ7Q+iKlwpCFaUWc753jNxJDplnNmuev4VhCV0PvBmSwD4F/5jDdlHpaqFJBeGrHhdwfNw5hPNqYZa3FhuU0IhEQ=="
       }
     }
   }
