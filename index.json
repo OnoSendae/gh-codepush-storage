@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-11-03T02:04:24.266Z",
+  "lastUpdated": "2025-11-03T02:30:40.764Z",
   "apps": {
     "OnoSendae": {
       "Production": {
@@ -17,15 +17,17 @@
     },
     "StarterProject": {
       "Production": {
-        "currentRelease": "v3",
+        "currentRelease": "v5",
         "targetBinaryVersion": false,
-        "bundleUrl": "bundles/StarterProject/Production/v3/bundle.js",
-        "manifestUrl": "bundles/StarterProject/Production/v3/manifest.json",
+        "semverRange": "^0.0.1",
+        "bundleUrl": "bundles/StarterProject/Production/v5/bundle.js",
+        "manifestUrl": "bundles/StarterProject/Production/v5/manifest.json",
         "mandatory": false,
         "rolloutPercentage": 100,
-        "description": "v3 - Pink header with shadow",
-        "hash": "0d6da92e9c1ce1f04a8361a1a3ba52e9545538a4e2c2de512a6e76d854b59c11",
-        "signature": "cMA85wuS8oXLofgJp/deYoA+pV9eH9V+Uw/V+iDYInbvxM+VfiAZkAvIjEIODBMNWyB+aqzPb4t2xhzfErye8oVgnyOqek78cNXuP/UVEzJhRrrjoSKq3h6dIdvW1dRJsq7s+UMRWmkGUGrpjytMWDRtxndeJZA7w9b/RIiP5nnU+oOfei6ZKwvPJ+x/ai5OjFwKyydTBvA2RUkiUwEexAUji9U138HWZ8B3ctP0islt1j+9+VHfofT3OdIFeBanNfDSmSf23VZJJEnJiCOa95MYH9uGmVPAFT/BxuvNDcjZxTD98v6M9K+r+sjXHioN5bxekoYiLfqTtYWVVwIMCQ=="
+        "description": "v4 - Blue box with version control",
+        "enabled": true,
+        "hash": "6ac0fdbc577fbd6726210a2f72d370a45b3b1adc04862a6e129607c4bad4ce02",
+        "signature": "gWf51JAx+YgC+6xJWEbV/6hxNBjSCkR9QZzrcO1vyDGAiJjGy46PZ6Y6CG2pQTaUOFobolS9fcGQT4K7MHEumo+i6STaovzwJFel4u2rwiAUk5rrebtTM2yx1I8uNsDz+HN1hcFM74+vEKCbWg/0PjB+LR7jfaVQv91wz+K6eSptDp3Jllt17StQsuR0wMyxy2joYhn6fle2gYnhKFbs0RblmzUGh+5ZNGIpYkaYi0yVirzx5kOallqd5Qk9Q/H3iVVr3y2S06etqJlm3uJ1WeBT6qo+X3N4xWVW2T1y5qWcnfk2qnJii4iw5BK0TeWfZHgGPmFJA+TWa+9jCt1wvA=="
       }
     }
   }
